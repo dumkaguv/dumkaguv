@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitrii
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30px" width="30px"/></h1>
-<h3 align="center">Computer science student from Moldova 🇲🇩</h3>
+<h3 align="center">Computer science student from Moldova</h3>
 
 # 💫 About Me:
 As a passionate developer, I am committed to crafting impactful web applications and empowering others through education. I stay up-to-date with the latest technological advancements and strive to improve continuously.
@@ -19,6 +19,3 @@ While I enjoy coding, I am equally passionate about teaching and helping others 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=dumkaguv&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumkaguv&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dumkaguv&icon=0&color=0)](https://visitcount.itsvg.in)
