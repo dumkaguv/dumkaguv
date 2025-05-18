@@ -4,7 +4,9 @@
 
 # 💫 About Me:
 I am a frontend developer creating quality user interfaces using various technologies. I work closely with backend developers to ensure integration and functionality. I am always willing to be a valued member of the team and ready for new projects and challenges.
+
 My language skills: Russian, English, Romanian.
+
 My dev skills: React, Redux, Zustand, Vite, Tailwind, TypeScript, Next.JS, GitHub, HTML, CSS, SASS, JavaScript, REST API, MSSQL, UI/UX, Git
 
 ## 🌐 Socials:
