@@ -3,9 +3,9 @@
 <h3 align="center">Computer science student from Moldova</h3>
 
 # 💫 About Me:
-As a passionate developer, I am committed to crafting impactful web applications and empowering others through education. I stay up-to-date with the latest technological advancements and strive to improve continuously.
-
-While I enjoy coding, I am equally passionate about teaching and helping others succeed in their programming journeys.
+I am a frontend developer creating quality user interfaces using various technologies. I work closely with backend developers to ensure integration and functionality. I am always willing to be a valued member of the team and ready for new projects and challenges.
+My language skills: Russian, English, Romanian.
+My dev skills: React, Redux, Zustand, Vite, Tailwind, TypeScript, Next.JS, GitHub, HTML, CSS, SASS, JavaScript, REST API, MSSQL, UI/UX, Git
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dmitrii.dgl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitrii-golovicichin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmitrii.golovicichin@gmail.com) 
