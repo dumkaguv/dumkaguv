@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitrii
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30px" width="30px"/></h1>
-<h3 align="center">Computer science student from Moldova</h3>
+<h3 align="center">Front-end Developer | Computer science student from Moldova</h3>
 
 # 💫 About Me:
 I am a frontend developer creating quality user interfaces using various technologies. I work closely with backend developers to ensure integration and functionality. I am always willing to be a valued member of the team and ready for new projects and challenges.
